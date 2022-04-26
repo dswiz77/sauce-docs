@@ -11,6 +11,9 @@ Our Vault feature allows you to store variables and code snippets to use in your
 
 <!--[Explanation Video](https://www.youtube.com/watch?v=cBNMi30Fj9Q)-->
 
+:::note
+It is good practice to fill the vault with data that is project-centric (such as domains, protocols, and API keys) and to fill the globals/input set with test-specific variables (such as paths, IDs, dates, and serial numbers).
+:::
 
 ## What You'll Need
 * An existing API Testing Project. For details on how to create one, see the [Quickstart](/api-testing/quickstart/) guide.
