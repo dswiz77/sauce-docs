@@ -39,7 +39,7 @@ You can create and access test environments from the project or from the test.
 
 4. Click **Create**.
 
-<img src={useBaseUrl('img/api-testing/placeholder-image.png')} alt="placeholder"/>
+<img src={useBaseUrl('/img/api-testing/placeholder-image.png')} alt="Placeholder" width="250"/>
 
 3. Enter a name for your environment, then click **Save** when finished.
 
