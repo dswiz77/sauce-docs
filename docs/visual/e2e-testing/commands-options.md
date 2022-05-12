@@ -650,7 +650,7 @@ Below are the available options that you can define with the [`sauce:visual`](/v
     No
    </td>
    <td>
-    Option to enable the capturing and comparing of iframes content.
+    Option to enable the capturing and comparing of iframes content. Currently pseudo states on iframes isn't supported.
    </td>
    <td>
     <code>false</code>
